@@ -1,0 +1,6 @@
+figs/*.png
+__pycache__
+.DS_Store
+*.log
+*.png
+*.gif
